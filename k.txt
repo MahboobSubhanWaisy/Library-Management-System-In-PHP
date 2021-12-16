@@ -1,0 +1,5 @@
+table-centered mb-0
+
+03020311
+03020311
+JOIN fasilnama_subject ON fasilnama.fasilnama_id = fasilnama_subject.fasilnama_id

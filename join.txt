@@ -1,0 +1,1 @@
+SELECT book.book_title, student.name FROM `loan` JOIN book ON book.book_id = loan.book_id JOIN student ON student.stu_id = loan.loan_p WHERE loan_p_type = 'student' AND loan_p = 96290111
